@@ -1,3 +1,7 @@
+//Name: Keene Keannu Kurt C. De Jesus
+//Activity Name: Prelim Hands-on Examination
+//Description: C++ Payroll program
+
 #include <iostream>
 #include <string>
 
